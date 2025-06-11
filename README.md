@@ -1,9 +1,18 @@
----
+<div align="center">
 
-<h1 align="left">📚 Conteúdo de interface Web 📚</h1>
+<h3 align="center">Conteúdo de Interface Web</h3>
 
----
+<p align="center">Aulas da matéria de desenvolvimento de interface web com exemplos e exercícios.</p>
 
-<h2 align="left">Professor: Carlos</h2>
+<br>
+
+<p align="center">
+  👨‍🏫 <strong>Professor:</strong> Carlos <br>
+  📚 <strong>Matéria:</strong> Interface Web <br>
+  ✅ <strong>Status:</strong> Em andamento
+</p>
+
+<br>
+</div>
 
 ---
